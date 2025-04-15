@@ -1,0 +1,13 @@
+<suite name="Suite1" verbose="1">
+    <test name="RunTestSamplePackage">
+        <packages>
+            <package name="Tests" />
+        </packages>
+    </test>
+<!--    <test name="Nopackage">-->
+<!--        <classes>-->
+<!--            <class name=""/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+</suite>
